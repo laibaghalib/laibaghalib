@@ -6,20 +6,21 @@ Welcome to my GitHub profile. I'm a Computer Science graduate from the Universit
 
 ## Skills
 
-- Python
-- C++
-- Machine Learning
-- Retrieval-Augmented Generation (RAG)
-- Data Analysis
-- Git & GitHub
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6E40C9?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## Projects
 
-- [Dental Oral Diagnosis System](https://github.com/laibaghalib/dental-oral-diagnosis-system) – AI-based system for dental and oral diagnosis
-- [RAG PDF Chatbot](https://github.com/laibaghalib/rag-pdf-chatbot) – chatbot that answers questions from PDF documents
+- [Dental Oral Diagnosis System](https://github.com/laibaghalib/dental-oral-diagnosis-system) – AI-powered dental image analysis with explainable Grad-CAM heatmaps (Flask + ensemble deep learning)
+- [RAG PDF Chatbot](https://github.com/laibaghalib/rag-pdf-chatbot) – chat with your PDF: a RAG app with page-number citations, built with ChromaDB, sentence-transformers and Groq
 - [C++ Compiler Visualizer](https://github.com/laibaghalib/cpp-compiler-visualizer) – tool to visualize how C++ code is compiled
 
 ## Connect with me
 
-- LinkedIn: [linkedin.com/in/laiba-ghalib](https://linkedin.com/in/laiba-ghalib)
-- Email: [laibaghalib12@gmail.com](mailto:laibaghalib12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laiba-ghalib)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laibaghalib12@gmail.com)
